@@ -1,3 +1,3 @@
 # Crossin
 该存储库已预先整理好，可以在Cals中存储和上传编程任务
-这个 is a file stotrage of the Crossin learning
+该分支主要用来存储Crossin编程教室的相关代码
