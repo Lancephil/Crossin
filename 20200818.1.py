@@ -1,6 +1,6 @@
 print('you are been watched')
 input()
-print('the goverment have a secret system')
+print('the government have a secret system')
 input()
 print('they watch you every hour of every day')
 input()
