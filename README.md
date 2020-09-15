@@ -1,3 +1,3 @@
 # Crossin
 该存储库已预先整理好，可以在Cals中存储和上传编程任务
-这个 is a file stotrage of the Crossin learning
+该分支用来存储零基础入门小组的相关代码 日期2020-08-18 ~ 2020-09-16
